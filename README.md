@@ -1,6 +1,11 @@
 # Chat-Application
 Chat Application written in Java
 
+# Interfaces
+
+![client](client.PNG)
+![server](server.PNG)
+
 # References
 
 Socket Programming References:
@@ -32,7 +37,7 @@ https://www.javatpoint.com/java-filewriter-class
 https://www.geeksforgeeks.org/file-handling-java-using-filewriter-filereader/
 
 ClientHandler Class References:
-https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/ -> pwede gihapon sa socket programming na reference...
+https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/
 
 InputStreamReader References:
 https://www.tutorialspoint.com/java/io/java_io_inputstreamreader.htm
