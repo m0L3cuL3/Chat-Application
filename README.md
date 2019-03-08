@@ -2,10 +2,10 @@
 Chat Application written in Java
 
 **MEMBERS:**
-- Sean Baang ([Twitter](http://twitter.com/SeanBaang), [Facebook](http://facebook.com/m0L3cuL3))
-- Jose Gonzaga
-- Neil Abad
-- Michael Yu
+- Sean Baang ( [Twitter](http://twitter.com/SeanBaang), [Facebook](https://facebook.com/m0L3cuL3), [Website](http://eternalblue.tk) )
+- Jose Gonzaga ( [Facebook](https://facebook.com/josemiguel.gonzaga) )
+- Neil Abad ( [Facebook](https://facebook.com/nelpox) )
+- Michael Yu ( [Facebook](https://facebook.com/michaelyu5) )
 
 ## Interfaces
 
