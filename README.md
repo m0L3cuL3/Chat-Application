@@ -9,8 +9,8 @@ Chat Application written in Java
 
 ## Interfaces
 
-![client](client.PNG)
-![server](server.PNG)
+<img src="client.PNG"> 
+<img src="server.PNG">
 
 ### References
 
