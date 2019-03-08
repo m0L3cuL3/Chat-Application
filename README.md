@@ -2,8 +2,7 @@
 Chat Application written in Java
 
 **MEMBERS:**
-- Sean Baang
-1. [Twitter](http://twitter.com/SeanBaang)
+- Sean Baang ([Twitter](http://twitter.com/SeanBaang), [Facebook](http://facebook.com/m0L3cuL3))
 - Jose Gonzaga
 - Neil Abad
 - Michael Yu
