@@ -1,7 +1,7 @@
 # Chat-Application
 Chat Application written in Java
 
-REFERENCES USED:
+# References
 
 Socket Programming References:
 https://www.geeksforgeeks.org/socket-programming-in-java/
