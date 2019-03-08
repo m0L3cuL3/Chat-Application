@@ -1,12 +1,18 @@
-# Chat-Application
+# Chat Application
 Chat Application written in Java
 
-# Interfaces
+**MEMBERS:**
+- Sean Baang
+- Jose Gonzaga
+- Neil Abad
+- Michael Yu
+
+## Interfaces
 
 ![client](client.PNG)
 ![server](server.PNG)
 
-# References
+### References
 
 Socket Programming References:
 https://www.geeksforgeeks.org/socket-programming-in-java/
